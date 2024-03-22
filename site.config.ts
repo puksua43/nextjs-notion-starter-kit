@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Photo-e623545cd47d452c919c55b91da257a0',
+  rootNotionPageId: 'Personal-Home-dda323d099b44cd096b184a9337fd281',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Photo',
-  domain: 'https://www.notion.so/Photo-e623545cd47d452c919c55b91da257a0',
+  domain: 'https://www.notion.so/Personal-Home-dda323d099b44cd096b184a9337fd281',
   author: 'Vicky Chan',
 
   // open graph metadata (optional)
